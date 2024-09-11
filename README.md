@@ -5,7 +5,7 @@
 The [Delinea](https://delinea.com/) Secret Server Java SDK contains classes that
 interact with [Secret Server](https://delinea.com/products/secret-server/) via the REST API.
 
-The SDK contains an API based the [Spring Framework](https://spring.io/projects/spring-framework)
+The SDK contains an API based  [Spring Framework](https://spring.io/projects/spring-framework)
 [RestTemplate](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html),
 and a simple application based on [Spring Boot](https://spring.io/projects/spring-boot),
 that calls the API.
